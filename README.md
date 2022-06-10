@@ -18,5 +18,9 @@ The Beecrowd is a project that is being developed by the Computer Science Depart
 |[1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | [1010.py](https://github.com/MouraRaquel/beecrowd/blob/main/1010.py) | | [1010.js](https://github.com/MouraRaquel/beecrowd/blob/main/1010.js) 
 |[1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | [1011.py](https://github.com/MouraRaquel/beecrowd/blob/main/1011.py) | | [1011.js](https://github.com/MouraRaquel/beecrowd/blob/main/1011.js) 
 |[1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [1012.py](https://github.com/MouraRaquel/beecrowd/blob/main/1012.py) | | [1012.js](https://github.com/MouraRaquel/beecrowd/blob/main/1012.js) 
-|[1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | | | [1013.js](https://github.com/MouraRaquel/beecrowd/blob/main/1013.js) 
+|[1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [1013.py](https://github.com/MouraRaquel/beecrowd/blob/main/1013.py) | | [1013.js](https://github.com/MouraRaquel/beecrowd/blob/main/1013.js) 
 |[1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [1014.py](https://github.com/MouraRaquel/beecrowd/blob/main/1014.py) | | [1014.js](https://github.com/MouraRaquel/beecrowd/blob/main/1014.js) 
+|[1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [1015.py](https://github.com/MouraRaquel/beecrowd/blob/main/1015.py) | | | 
+|[1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [1016.py](https://github.com/MouraRaquel/beecrowd/blob/main/1016.py) | | | 
+|[1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | [1017.py](https://github.com/MouraRaquel/beecrowd/blob/main/1017.py) | | | 
+|[1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [1018.py](https://github.com/MouraRaquel/beecrowd/blob/main/1018.py) | | | 
