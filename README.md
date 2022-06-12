@@ -20,7 +20,11 @@ The Beecrowd is a project that is being developed by the Computer Science Depart
 |[1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [1012.py](https://github.com/MouraRaquel/beecrowd/blob/main/1012.py) | | [1012.js](https://github.com/MouraRaquel/beecrowd/blob/main/1012.js) 
 |[1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [1013.py](https://github.com/MouraRaquel/beecrowd/blob/main/1013.py) | | [1013.js](https://github.com/MouraRaquel/beecrowd/blob/main/1013.js) 
 |[1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [1014.py](https://github.com/MouraRaquel/beecrowd/blob/main/1014.py) | | [1014.js](https://github.com/MouraRaquel/beecrowd/blob/main/1014.js) 
-|[1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [1015.py](https://github.com/MouraRaquel/beecrowd/blob/main/1015.py) | | | 
+|[1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [1015.py](https://github.com/MouraRaquel/beecrowd/blob/main/1015.py) | | [1015.js](https://github.com/MouraRaquel/beecrowd/blob/main/1015.js)  
 |[1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [1016.py](https://github.com/MouraRaquel/beecrowd/blob/main/1016.py) | | | 
 |[1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | [1017.py](https://github.com/MouraRaquel/beecrowd/blob/main/1017.py) | | | 
-|[1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [1018.py](https://github.com/MouraRaquel/beecrowd/blob/main/1018.py) | | | 
+|[1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) | [1018.py](https://github.com/MouraRaquel/beecrowd/blob/main/1018.py) | | |
+|[1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [1019.py](https://github.com/MouraRaquel/beecrowd/blob/main/1019.py) | | | 
+|[1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [1020.py](https://github.com/MouraRaquel/beecrowd/blob/main/1020.py) | | | 
+|[1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) | [1042.py](https://github.com/MouraRaquel/beecrowd/blob/main/1042.py) | | | 
+|[1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) | [1049.py](https://github.com/MouraRaquel/beecrowd/blob/main/1049.py) | | |
