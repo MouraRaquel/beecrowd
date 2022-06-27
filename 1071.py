@@ -9,7 +9,7 @@ if x > y:
         if i%2 != 0:
             soma += i
 
-if y > x:
+else:
     for i in range(x+1, y):
 
         if i%2 != 0:
